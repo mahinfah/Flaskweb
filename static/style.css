@@ -1,0 +1,95 @@
+.p1{
+    color: rgb(219, 194, 5);
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 34px;
+
+
+}
+.main{
+    size: 500px 600px;
+    background-image: url(saga.jpg);
+    background-size: cover;
+    padding: auto;
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 100px;
+    h1{
+        margin-left: 550px;
+        font-size: 30px;
+        position: -webkit-sticky;
+
+}
+    span{
+        margin-left: 670px;
+        margin-bottom: 10px;
+        font-size: 20px;
+        display: block;
+    }
+    }
+
+#p2{
+   
+
+  
+    letter-spacing: 1px;
+    color: rgb(219, 194, 5);
+    font-family: "Lucida Console", "Courier New", monospace;
+
+    font-size: 25px;
+}
+h1 {
+    color: rgb(219, 194, 5);
+    text-align: center;
+    text-align: justify;
+    padding: 30px;
+    letter-spacing: 15px;
+    margin-left: 450px;
+}
+.lol{
+    border: 2px solid rgb(219, 194, 5);
+    background-color: rgb(219, 194, 5);
+    outline: #4CAF50 solid 15px;
+    padding-top: 10px;
+    padding-right: 3px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+  }
+  
+.fa-cubes{
+
+    font-size: 40px;
+    color: #4CAF50;
+    margin-left: 500px; /* Adjust the value as needed */
+}
+
+.hello {
+    background-color: rgb(100, 98, 91);
+    border: 2px solid black;
+
+
+
+
+h5{
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 50px;
+    color: rgb(245, 241, 241);
+ 
+}
+
+a{
+ color: black;
+ font-variant: small-caps;
+ font-family: "Lucida Console", "Courier New", monospace;
+ font-size: 50px;
+
+}
+a:hover{
+    color: rgb(211, 211, 211);
+    text-decoration: underline;
+}
+
+}
