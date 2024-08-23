@@ -8,6 +8,8 @@
 
 }
 .main{
+
+
     size: 500px 600px;
     background-image: url(saga.jpg);
     background-size: cover;
@@ -26,6 +28,13 @@
         font-size: 20px;
         display: block;
     }
+
+    a{
+        color: #e0a717;
+        font-size: 40px;
+        text-align: right;      
+    }
+    
     }
 
 #p2{
@@ -66,7 +75,6 @@ h1 {
 .hello {
     background-color: rgb(100, 98, 91);
     border: 2px solid black;
-
 
 
 
